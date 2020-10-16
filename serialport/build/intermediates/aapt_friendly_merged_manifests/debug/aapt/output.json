@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "applicationId": "tp.xmaihh.serialport",
+  "variantType": "LIBRARY",
+  "elements": [
+    {
+      "outputType": {
+        "type": "AAPT_FRIENDLY_MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 11,
+        "versionName": "2.1",
+        "outputFile": "serialport-debug.aar",
+        "fullName": "debug",
+        "baseName": "debug",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "tp.xmaihh.serialport",
+        "split": ""
+      }
+    }
+  ]
+}

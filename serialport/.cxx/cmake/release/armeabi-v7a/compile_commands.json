@@ -1,0 +1,7 @@
+[
+{
+  "directory": "D:/cube/AndroidSerialport/serialport/.cxx/cmake/release/armeabi-v7a",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk\\21.2.6472646\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk/21.2.6472646/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dserialport_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\serialport.dir\\src\\main\\jni\\SerialPort.c.o   -c D:\\cube\\AndroidSerialport\\serialport\\src\\main\\jni\\SerialPort.c",
+  "file": "D:/cube/AndroidSerialport/serialport/src/main/jni/SerialPort.c"
+}
+]

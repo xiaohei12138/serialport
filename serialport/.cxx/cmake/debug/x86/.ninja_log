@@ -1,0 +1,6 @@
+# ninja log v5
+1	158	614171593	CMakeFiles/serialport.dir/src/main/jni/SerialPort.c.o	929187a435fc8a5d
+160	297	614171593	../../../../build/intermediates/cmake/debug/obj/x86/libserialport.so	a44f5f3e7472e06e
+0	12	0	clean	81a0c8a35c45b8df
+3	160	614255589	CMakeFiles/serialport.dir/src/main/jni/SerialPort.c.o	929187a435fc8a5d
+160	305	614255589	../../../../build/intermediates/cmake/debug/obj/x86/libserialport.so	a44f5f3e7472e06e
